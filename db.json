@@ -1,11 +1,26 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "flight": {
+    "HU7709": {
+      "2018": {
+        "10": {
+          "25": {
+            "airlinesName": "Hainan Airlines",
+            "flightIATA": "HU7709",
+            "departure": "Beijing Capital International Airport",
+            "arrival": "Shenzhen Bao'an International Airport",
+            "publishedDeparture": "2018-10-25 12:30:00",
+            "publishedArrival": "2018-10-25 16:05:00",
+            "actualDeparture": "2018-10-25 12:40:00",
+            "actualArrival": "",
+            "status": "S",
+            "departureTerminal": "1",
+            "departureGate": "A18",
+            "arrivalTerminal": "T3",
+            "arrivalGate": "",
+            "baggage": ""
+          }
+        }
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
