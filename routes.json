@@ -1,0 +1,3 @@
+{
+  "/flight/:flightIATA/:year/:month/:day": "/flight/?flightIATA=:flightIATA&year=:year&month=:month&day=:day"
+}
