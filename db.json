@@ -1,9 +1,13 @@
 {
   "flight": {
-    "HU7709": {
-      "2018": {
-        "10": {
-          "25": {
+    "id": "HU7709",
+    "data": {
+      "id": "2018",
+      "data": {
+        "id": "10",
+        "data": {
+          "id": "31",
+          "data": {
             "airlinesName": "Hainan Airlines",
             "flightIATA": "HU7709",
             "departure": "Beijing Capital International Airport",
